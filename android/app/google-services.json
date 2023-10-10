@@ -1,0 +1,63 @@
+{
+    "project_info": {
+      "project_number": "369773986536",
+      "project_id": "usovehiclerentals",
+      "storage_bucket": "rnchallenge.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:369773986536:android:5dd2e7a146533b8654bf5d",
+          "android_client_info": {
+            "package_name": "com.rnchallenge.android"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "369773986536-6nnsv7rd9eq2mf7umis1p4oird1a0lo3.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.rnchallenge.android",
+              "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+            }
+          },
+          {
+            "client_id": "369773986536-edd2t6msid6i8vu4b6iklm4g15ge13qu.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.rnchallenge.android",
+              "certificate_hash": "c37a2e5eda771f1903f172a81e0d7fd3a040d340"
+            }
+          },
+          {
+            "client_id": "369773986536-k15no3rpnrm25lojn20hm2jojnm799an.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.rnchallenge.android",
+              "certificate_hash": "ba1163f70e50881461046ea114b2c071b30d74dc"
+            }
+          },
+          {
+            "client_id": "369773986536-gkpcgc43t06ucgj6nhc3uf96vqgmiao5.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBrM5SA0VC6NTx81dLDdvxwCvjAfgpvKAc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "369773986536-gkpcgc43t06ucgj6nhc3uf96vqgmiao5.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
